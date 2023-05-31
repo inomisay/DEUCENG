@@ -1,0 +1,17 @@
+addRoom;number-of-rooms;type;aircondition;balcony;price
+addEmployee;name;surname;gender;birthdate;addresstext;district;city;phone;job;salary
+addCustomer;name;surname;gender;birthdate;addresstext;district;city;phone
+addReservation;customer-id;room-id;start-date;end-date
+
+deleteEmployee;employee-id
+
+listRooms
+listEmployees
+listCustomers
+listReservations
+
+searchCustomer;pattern
+searchRoom;start-date;end-date
+
+statistics
+simulation;start-date;end-date
