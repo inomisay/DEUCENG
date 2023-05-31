@@ -62,4 +62,8 @@ DailyCustomerSatisfaction = 3 / NumberOfCustomers
 Daily customer satisfaction must be equal to or less than 100%.
 
 <img width="987" alt="Screen Shot 2023-05-31 at 15 15 38" src="https://github.com/inomisay/DEUCENG/assets/98346164/6a9b7a45-9898-4eab-ad4b-405f81d8388d">
+<img width="586" alt="Screen Shot 2023-05-31 at 15 17 15" src="https://github.com/inomisay/DEUCENG/assets/98346164/a06440ad-1eee-4913-b1d8-eec6f27d2482">
+<img width="530" alt="Screen Shot 2023-05-31 at 15 17 28" src="https://github.com/inomisay/DEUCENG/assets/98346164/00a10b7a-99fb-4a1d-a0f9-779f6c26c09c">
+
+
 
