@@ -1,5 +1,8 @@
 # DEUCENG
 
+<img width="128" alt="Screen Shot 2023-05-31 at 15 45 43" src="https://github.com/inomisay/DEUCENG/assets/98346164/cb16d168-9ce5-4d23-a8b1-a8a30e768702">
+
+
 # Project:  DEUCENG Hotel Simulation
 
 The aim of the project is to develop a simple Hotel Management System. 
