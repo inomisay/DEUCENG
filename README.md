@@ -11,7 +11,7 @@ The software helps the staff to manage all activities in hotel DEUCENG. It is us
 # Information on Hotel Management Structures
 
  
-* **Hotel
+* **Hotel**
  
 The information about the hotel, such as name, foundation date, address, phone number, and the number of stars will be managed by the software. 
 
